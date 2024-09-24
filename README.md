@@ -3,7 +3,7 @@
 # :notebook_with_decorative_cover: Table of Contents
 
 - [About the Project](#star2-about-the-project)
-  * [The RIDER experiment series](#mechanical_arm-The RIDER experiment series)
+  * [The RIDER experiment series](#mechanical_arm-The-RIDER-experiment-series)
   * [Experiment Design](#file_cabinet-Library)
 - [Getting Started](#running-getting-started)
   * [Setting up your experiments](#computer-setting-Setting up your experiments)

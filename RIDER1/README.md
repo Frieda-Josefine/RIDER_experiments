@@ -2,8 +2,6 @@
 
 <p>In this section of the repository, you will find all the code and resources necessary to run the <strong>RIDER 1 experiment</strong>.</p>
 
-<hr>
-
 <h3> :mechanical_arm: <strong>Overview of the Folders</strong></h3>
 
 <ul>
@@ -17,8 +15,6 @@
     </ul>
   </li>
 </ul>
-
-<hr>
 
 <h3> :mechanical_arm: <strong>Overview of the Scripts to Run the Demo Task</strong></h3>
 

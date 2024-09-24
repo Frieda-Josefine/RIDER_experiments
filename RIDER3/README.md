@@ -1,7 +1,7 @@
 <div style="text-align: left;">
-  <h2> :star2: <strong>RIDER 1</strong></h2>
+  <h2> :star2: <strong>RIDER 3</strong></h2>
 
-  <p>In this section of the repository, you will find all the code and resources necessary to run the <strong>RIDER 1 experiment</strong>.</p>
+  <p>In this section of the repository, you will find all the code and resources necessary to run the <strong>RIDER 3 experiment</strong>.</p>
 
   <h3> :mechanical_arm: <strong>Overview of the Folders</strong></h3>
 
@@ -20,9 +20,9 @@
   <h3> :mechanical_arm: <strong>Overview of the Scripts to Run the Demo Task</strong></h3>
 
   <ul>
-    <li> &#128126; <strong><code>RIDER1_task_continous_ori.js:</code></strong> The main script required to run the task in an online environment.</li>
-    <li> &#128126; <strong><code>RIDER1_task_continous_ori.psyexp:</code></strong> A PsychoPy Builder file that provides an overview of the experiment’s structure and flow.</li>
-    <li> &#128126; <strong><code>RIDER1_task_continous_ori-legacy-browsers.js:</code></strong> This version of the task script ensures compatibility with certain older browsers.</li>
+    <li> &#128126; <strong><code>RIDER_task_alternative_choice.js:</code></strong> The main script required to run the task in an online. environment.</li>
+    <li> &#128126; <strong><code>RIDER_task_alternative_choice.psyexp:</code></strong> A PsychoPy Builder file that provides an overview of the experiment’s structure and flow.</li>
+    <li> &#128126; <strong><code>RIDER_task_alternative_choice-legacy-browsers.js:</code></strong> This version of the task script ensures compatibility with certain older browsers.</li>
   </ul>
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>

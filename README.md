@@ -6,7 +6,7 @@
   * [The RIDER experiment series](#mechanical_arm-The-RIDER-experiment-series)
   * [Experiment Design](#file_cabinet-Library)
 - [Getting Started](#running-getting-started)
-  * [Setting up your experiments](#computer-setting-Setting up your experiments)
+  * [Setting up your experiments](#computer-setting-Setting-up-your-experiments)
 - [License](#warning-license)
 - [Citation](#page_with_curl-citation)
 - [Contributions](#gem-contributions)
